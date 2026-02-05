@@ -1,0 +1,20 @@
+S:\273 ИСП СИС\Арешко\самостоятельная работа\bin\Debug\самостоятельная работа.exe.config
+S:\273 ИСП СИС\Арешко\самостоятельная работа\bin\Debug\самостоятельная работа.exe
+S:\273 ИСП СИС\Арешко\самостоятельная работа\bin\Debug\самостоятельная работа.pdb
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.AssemblyReference.cache
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная_работа.Form1.resources
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная_работа.Properties.Resources.resources
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.GenerateResource.cache
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.CoreCompileInputs.cache
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.exe
+S:\273 ИСП СИС\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.pdb
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.AssemblyReference.cache
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная_работа.Form1.resources
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная_работа.Properties.Resources.resources
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.GenerateResource.cache
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.csproj.CoreCompileInputs.cache
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.exe
+C:\Users\student405\Documents\Арешко\самостоятельная работа\obj\Debug\самостоятельная работа.pdb
+C:\Users\student405\Documents\Арешко\самостоятельная работа\bin\Debug\самостоятельная работа.exe.config
+C:\Users\student405\Documents\Арешко\самостоятельная работа\bin\Debug\самостоятельная работа.exe
+C:\Users\student405\Documents\Арешко\самостоятельная работа\bin\Debug\самостоятельная работа.pdb
